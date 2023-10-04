@@ -18,8 +18,13 @@ This is an e-commerce website developed using Django, HTML, CSS, and Python. It 
 - Virtual Environment (recommended)
 -  SQLite (for the database)
 
+  
+
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   https://github.com/Manu72013633/eshopdjango-master.git
+2. download from here
+3. install all requairements
+4. run at ur local host
    
